@@ -70,7 +70,7 @@ sh ~/lightson.sh
 
 **~/lightson.sh** is the directory where you put your shell script, I put it in the root directory.
 
-image  
+![alt text](https://raw.githubusercontent.com/TokyoBirdy/Voice-control-lights-on-and-off/master/Automator.png)
 
 
 save it to **library/speech/Speakable Items** and name it "lights on".
@@ -79,6 +79,8 @@ save it to **library/speech/Speakable Items** and name it "lights on".
 ### Step 5: Finally voice control
 
 Go to **system preference**, then **Accessibility**, scroll down and find **Dictation**, Click **Dictation Commands** Click **+** button to add new commands. When I say **lights on** while using: **Any Application** Perform  open app and find lightson.app in the directory of **~/Library/Speech/Speakable\ Items/lights\ on.app** Finally click **Done**. now you have hooked up your voice with the shell script by running the lighton.app.
+ 
+![alt text](https://raw.githubusercontent.com/TokyoBirdy/Voice-control-lights-on-and-off/master/Dictation.png)
 
 
 ### Step 5: Run arduino 
@@ -95,6 +97,9 @@ Code !
 ### Step 5: Final step, voice control 
 
 Go to **system preference** and search for speech. Set the short cut. In my case I press Left Command key twice. 
+
+![alt text](https://raw.githubusercontent.com/TokyoBirdy/Voice-control-lights-on-and-off/master/Speech.png)
+
 
 Now click Left Command key twice and say "lights on", "light off", Enjoy! 
   
