@@ -83,11 +83,7 @@ Go to **system preference**, then **Accessibility**, scroll down and find **Dict
 
 ### Step 5: Run arduino 
 
-Open arduino app, and paste the following code 
-
-
-Code !
-
+Open arduino app, and use the code in this repository called voice-control.ino, and run on the arduino you have build on step one.
 
 
 
