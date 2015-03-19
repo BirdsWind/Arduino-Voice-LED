@@ -96,6 +96,11 @@ Go to **system preference** and search for speech. Set the short cut. In my case
 
 
 Now click Left Command key twice and say "lights on", "light off", Enjoy! 
+
+
+### Youtube video  
+
+[Voice control led turn on and off showcase](https://www.youtube.com/watch?v=GKyTyhMJvg4)
   
 
 
