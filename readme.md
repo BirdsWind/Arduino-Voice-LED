@@ -12,7 +12,7 @@
 
 ### Step 2: Connect LED with Arduino 
 
-![alt text](https://raw.githubusercontent.com/TokyoBirdy/Voice-control-lights-on-and-off/master/Led%20connect.jpg)
+![alt text](https://raw.githubusercontent.com/TokyoBirdy/Voice-control-lights-on-and-off/master/Led-connect.png)
 
 To build the circuit, connect one end of the resistor to Arduino pin 13. Connect the long leg of the LED (the positive leg, called the anode) to the other end of the resistor. Connect the short leg of the LED (the negative leg, called the cathode) to the Arduino GND.
 
